@@ -67,7 +67,7 @@ exports.webp2mp4File=async(path) =>{
 				   const result = 'https:' + $('div#output > p.outfile > video > source').attr('src')
 				   resolve({
 						status: true,
-						message: "Created By Dexter",
+						message: "Created By Gagana",
 						result: result
 				   })
 			  }).catch(reject)
