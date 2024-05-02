@@ -32,16 +32,16 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭────✧GAGANA-MD✧────◆
-│🌠 *Préfix* : ${s.PREFIXE}
-│🌠 *User* : ${s.OWNER_NAME}
-│🌠 *Mode* : ${mode}
-│🌠 *Commands* : ${cm.length} 
-│🌠 *Date* : ${date}
-│🌠 *Time* : ${temps} 
-│🌠 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│🌠 *Platform* : ${os.platform()}
-│🌠 *Developer* : Gagana
-│🌠 *Version* : 𝐯7.5.25
+│👩‍💻 *Préfix* : ${s.PREFIXE}
+│👩‍💻 *User* : ${s.OWNER_NAME}
+│👩‍💻 *Mode* : ${mode}
+│👩‍💻 *Commands* : ${cm.length} 
+│👩‍💻 *Date* : ${date}
+│👩‍💻 *Time* : ${temps} 
+│👩‍💻 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│👩‍💻 *Platform* : ${os.platform()}
+│👩‍💻 *Developer* : Gagana
+│👩‍💻 *Version* : 𝐯7.5.25
 ╰─────✧The-GOAT✧─────◆ \n\n`;
 
   let menuMsg=`  
@@ -54,7 +54,7 @@ const date = moment().format('DD/MM/YYYY');
         menuMsg += `*╭────☢️* *${cat}* *☢️⊷*`;
         for (const cmd of coms[cat]) {
             menuMsg += `
- *|☬* ${cmd}`;
+ *|🔰* ${cmd}`;
         }
         menuMsg += `
 *╰═════════════⊷* \n`
