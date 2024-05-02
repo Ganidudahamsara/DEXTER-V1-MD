@@ -1,13 +1,13 @@
 
-## <p align="center"> DEXTER-V1-MD WHATSAPP BOT
+## <p align="center"> GAGANA-V1-MD WHATSAPP BOT
 <br>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+DEXTER-V1-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DEXTER;RELEASED+DATE+24%2F03%2F2024." alt="Typing SVG" /></a>
 </p>
 
 
-<img src="https://telegra.ph/file/7d08ef891cbe7d31e682b.jpg" width="540" height="280" />
-</p>         ⚔ 𝐃𝐄𝐗𝐓𝐄𝐑 𝐌𝐃 ⚔
+<img src="[https://telegra.ph/file/7d08ef891cbe7d31e682b.jpg](https://telegra.ph/file/45e209c39ce132e5e4898.jpg)" width="540" height="280" />
+</p>         ⚔ GAGANA MD ⚔
 
 ### Setup
 
@@ -40,13 +40,13 @@
 
 ## Contributions
 
-Contributions to Dexter-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to GAGANA-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
-The DEXTER-MD is released.
+The GAGANA-MD is released.
 
-Enjoy the diverse features of the DEXTER-MD  to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the GAGANA-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
 - [**WhatsApp**](https://wa.me/94789958225)
