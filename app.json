@@ -1,8 +1,8 @@
 {
-  "name":"GAGANA-MD",
+  "name":"DEXTER-V1-MD",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/45e209c39ce132e5e4898.jpg",
+  "logo":"https://telegra.ph/file/57c3083b60b2bea6ec132.jpg",
   "repository":"https://github.com/Purnageethanajana/DEXTER-V1-MD/",
   "succes_url":"/",
   "stack":"container",
@@ -34,15 +34,15 @@
     ,
     "BOT_NAME" : {
        
-      "description":"📌 Dont chchange (වෙනස් කරන්න එපා)",
-      "value":"GAGANA-MD",
+      "description":"put A name for your bot",
+      "value":"DEXTER-V1-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
-      "description":"📌 Dont chchange (වෙනස් කරන්න එපා),
-      "value":"https://telegra.ph/file/45e209c39ce132e5e4898.jpg",
+      "description":"📌 Dont change ",
+      "value":"https://telegra.ph/file/e716c8220c20e3845f2cf.mp4",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
     "required": false,
-    "value": "GAGANA"
+    "value": "DEXTER"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
     "required":false,
-    "value": "94768943935"
+    "value": "94789958225"
   },
     "WARN_COUNT":
   {
@@ -96,7 +96,7 @@
     "value": "yes"
   },
   "PRESENCE":{
-    "description":"1 always online,2 Auto typing always,3 Recording audio.... always type choice number 📌",
+    "description":"📌 ALWAYS ONLINE 1 /📌 TYPING 2 /📌 RECORDING AUDIO.... 3🌟 ඔයාට ඔන අංකය type කරන්න 🌟",
     "value":"",
     "required": false
   }  
@@ -105,7 +105,7 @@
   "formation": {
 		"worker": {
 			"quantity": 1,
-			"size": "basic"
+			"size": "basic" 
 		}
 	},
 
