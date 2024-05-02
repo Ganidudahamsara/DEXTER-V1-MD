@@ -4,7 +4,7 @@ const { france } = require("../framework/france");
 france({ nomCom: "repo", reaction: "⚔", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
 
 
-const githubRepo = 'https://github.com/DEXTER-BOT-1/DEXTER-V1-MD';
+const githubRepo = 'https://github.com/Gagana-BOT-1/Gagana-V1-MD';
 const img = 'https://telegra.ph/file/cf24b099f90b5e6ed146b.mp4';
 
 
@@ -22,13 +22,13 @@ const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
             const lastUpdateDate = new Date(repoInfo.lastUpdate).toLocaleDateString('en-GB');
 
 const gitdata = `Hello 👋 
-This is *DEXTER-MD.* The following is *DEXTER-MD's*
+This is *Gagana-MD.* The following is *Gagana-MD's*
 *REPOSITORY:* ${data.html_url}
 ✨ *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASED:* ${releaseDate}
 🕐 *LAST UPDATED:* ${lastUpdateDate}
-👨‍💻 *OWNER:* *DEXTER®📌*`;
+👨‍💻 *OWNER:* *Gagana®📌*`;
 
 
 await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
@@ -41,8 +41,8 @@ console.log("Could not fetch data")
 
 });
 
-   /* let z = 'Hello This is  *DEXTER-MD* \n\n ' + "The Following is *DEXTER-MD Repo.*";
-    let d = ' https://github.com/DEXTER-BOT-1/DEXTER-V1-MD';
+   /* let z = 'Hello This is  *Gagana-MD* \n\n ' + "The Following is *Gagana-MD Repo.*";
+    let d = ' https://github.com/Gagana-BOT-1/Gagana-V1-MD';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/cf24b099f90b5e6ed146b.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
