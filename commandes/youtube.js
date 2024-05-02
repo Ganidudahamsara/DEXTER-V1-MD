@@ -36,7 +36,7 @@ zokou({
 *Url :* _${videos[0].url}_
 
 
-_*DEXTER-MD SONG DOWNLOADING......*_\n\n`
+_*Gagana-MD SONG DOWNLOADING......*_\n\n`
        }
 
       
@@ -110,7 +110,7 @@ zokou({
 *Url :* _${Element.url}_
 
 
-_*DEXTER-MD VIDEO DOWNLOADING......*_\n\n`
+_*Gagana-MD VIDEO DOWNLOADING......*_\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
@@ -131,7 +131,7 @@ _*DEXTER-MD VIDEO DOWNLOADING......*_\n\n`
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*DEXTER-MD*", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*Gagana-MD*", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
