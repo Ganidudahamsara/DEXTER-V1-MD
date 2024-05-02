@@ -1,5 +1,5 @@
 {
-  "name": "DEXTER-MD",
+  "name": "Gagana-MD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "dexter-Md",
+    "Gagana-Md",
     "whatsapp",
     "whatsapp-bot",
-    "dexter"
+    "Gagana"
   ],
-  "author": "dexter",
+  "author": "Gagana",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
