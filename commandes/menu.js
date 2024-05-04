@@ -31,7 +31,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧𝐃𝐄𝐗𝐓𝐄𝐑-𝐌𝐃✧────◆
+╭────✧Gagana�-𝐌𝐃✧────◆
 │♨ *Préfix* : ${s.PREFIXE}
 │♨ *User* : ${s.OWNER_NAME}
 │♨ *Mode* : ${mode}
@@ -40,13 +40,13 @@ const date = moment().format('DD/MM/YYYY');
 │♨ *Time* : ${temps} 
 │♨ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │♨ *Platform* : ${os.platform()}
-│♨ *Developer* : 𝐃𝐄𝐗𝐓𝐄𝐑
+│♨ *Developer* : Gagana�
 │♨ *Version* : 𝐯7.5.25
 ╰─────✧The-GOAT✧─────◆ \n\n`;
 
   let menuMsg=`  
 
-*DEXTER-MD COMMANDS :*
+*Gagana-MD COMMANDS :*
 ◇                             ◇
 `;
 
@@ -64,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *————— ★ —————*
 
-  *📌DEXTER©🐐²0²⁴*                                         
+  *📌Gagana©🐐²0²⁴*                                         
 *╰═════════════⊷*
 `;
 
@@ -82,7 +82,7 @@ const date = moment().format('DD/MM/YYYY');
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*📌Dexter*" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*📌Gagana*" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
