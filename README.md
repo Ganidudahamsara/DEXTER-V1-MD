@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="[[https://telegra.ph/file/7a57c122bf1ec733fa463.jpg](https://telegra.ph/file/7a57c122bf1ec733fa463.jpg)](https://telegra.ph/file/7a57c122bf1ec733fa463.jpg)" width="540" height="280" />
+<img src="https://telegra.ph/file/7a57c122bf1ec733fa463.jpg" width="540" height="280" />
 </p>         ⚔ GAGANA MD ⚔
 
 ### Setup
